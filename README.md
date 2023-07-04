@@ -3,6 +3,8 @@
 
 <p>
   This repository serves as a foundation for building robust and scalable web applications using the popular combination of TypeScript and Express.js.
+
+  A great resource on how you can structure other components of your application can be found <a href="https://blog.treblle.com/egergr/">here</a>
 </p>
 
 <br />
