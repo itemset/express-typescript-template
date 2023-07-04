@@ -1,4 +1,4 @@
-<img src="https://github.com/itemset/express-typescript-template/assets/135459773/8ce9ad1b-fa38-4666-a149-156731f270cf" width=80 /> 
+<img src="https://github.com/itemset/express-typescript-template/assets/135459773/e1174599-bdfc-4027-84ca-68321e62fb6f" width=80 /> 
 <h1>Typescript + Express Template</h1>
 
 <p>
